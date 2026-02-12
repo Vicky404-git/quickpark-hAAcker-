@@ -159,15 +159,13 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 👥 Contributors
 
-## 👥 Contributors
-
 <p align="left">
   <a href="https://github.com/mahendra189" target="_blank">
     <img src="https://github.com/mahendra189.png" width="60" alt="Mahendrakumar Suthar" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/not-your-average-devil" target="_blank">
-    <img src="https://github.com/not-your-average-devil.png" width="60" alt="Aditya Agrawal" />
+  <a href="https://github.com/AdityaAgrawal007" target="_blank">
+    <img src="https://github.com/AdityaAgrawal007.png" width="60" alt="Aditya Agrawal" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Ruhdee" target="_blank">
