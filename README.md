@@ -25,7 +25,7 @@ QuickPark helps you discover, search, and book the most convenient parking space
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/quickpark.git
+git clone https://github.com/AdityaAgrawal007/quickpark.git
 cd quickpark
 ```
 
